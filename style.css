@@ -1,0 +1,137 @@
+.head 
+{
+    background-color: black;
+    height: 40px;
+    color: white;
+}
+.head > ul 
+{
+    list-style-type: none;
+    padding-top: 10px;
+}
+.head > ul > li 
+{
+    display: inline;
+    margin-right: 20px;
+}
+.login
+{
+    float: right;
+    margin-right: 100px;
+    margin-top: -30px;
+    color: white;
+}
+.banner 
+{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.date 
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    color: grey;
+}
+.menu 
+{
+    margin-top: -18px;
+    margin-right: 50px;
+}
+.menu > ul
+{
+    list-style-type: none;
+    display: inline;
+    margin-left: 200px;
+}
+.menu > ul > li 
+{
+    display: inline;
+    margin-right: 15px;
+    background-color: beige;
+    border-radius: 10px;
+    padding: 4px;
+    font-size: small;
+}
+.bar 
+{
+    margin-left: 100px;
+    margin-top: 20px;
+    border-style: solid;
+    width: 100px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+.logo
+{
+    margin-left: 300px;
+    margin-top: -30px;
+}
+.line 
+{
+    margin-top: 30px;
+}
+.line > ul 
+{
+    border-top: solid;
+    list-style-type: none;
+    display: inline;
+    margin-left: 50px;
+    padding-top: 20px;
+
+}
+.line > ul >li
+{
+    display: inline;
+    margin-right: 15px;
+    border: 10px;
+    padding: 4px;
+}
+.banner1
+{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.news1 
+{
+    width: 480px;
+}
+.news1 > h2
+{
+    font-size: 20px;
+}
+.news1 >h1
+{
+    font-size: 10px;
+}
+.news2 
+{
+    margin-top: -450px;
+    margin-left: 580px;
+}
+.news2 > h2
+{
+    font-size: 15px;
+    width: 250px;
+}
+.news3
+{
+    margin-left: 580px;
+    margin-top: 25px;
+}
+.news3> h1
+{
+    font-size: 15px;
+    width: 250px;
+}
+.news4
+{
+    margin-top: -510px;
+    margin-left: 880px;
+    width: 700px;
+}
+.news4 > img 
+{
+    width: 430px;
+}
